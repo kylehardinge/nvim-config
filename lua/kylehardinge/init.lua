@@ -1,0 +1,8 @@
+require("kylehardinge.set")
+require("kylehardinge.remap")
+require("kylehardinge.lazy_init")
+require("kylehardinge.yank")
+require("kylehardinge.telescope")
+require("kylehardinge.treesitter")
+require("kylehardinge.lsp")
+require("kylehardinge.nvim-cmp")
